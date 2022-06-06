@@ -100,7 +100,7 @@ h1 {
   width:280px;
   height:90px;
   margin: auto;
-  padding:15px;
+  padding:10px;
 }
 .button-home {
   padding:2px 15px;
@@ -141,7 +141,6 @@ h1 {
   justify-content: space-evenly;
   align-items:center;
   max-width:280px;
-  padding:2px;
 }
 .p-container {
   width:100px;
@@ -160,11 +159,6 @@ h1 {
 .p-name {
   font-size:14px;
   font-weight: 600;
-}
- .flex-row p {
-  margin:2px;
-  margin-right: 0;
-  margin-left:0;
 }
 .p-pop {
   color: ;
